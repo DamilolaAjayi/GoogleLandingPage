@@ -46,16 +46,10 @@
 			box-shadow: -0.2px -0.2px 5px #a6a6a6;
 			background-color: 1px solid rgba(255,255,255,0.2);		
 		}
-		.buttons{
+		.buttons, .searchBar{
 			width:100%;
 			display :flex;
 			justify-content : center;
-		}
-
-		.searchBar{
-			width:100%;
-			display: flex;
-			justify-content: center;
 		}
 
 		.doodle{
